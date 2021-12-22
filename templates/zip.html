@@ -1,0 +1,12 @@
+{% extends 'base.html' %} {% block head %} <title>Real Estate</title> {%
+endblock %} {% block body %}
+<div class="content">
+  <h1>Zip Code Search</h1>
+  <form action="/" method="POST">
+    <label for="zip-input">
+      <input type="text" name="zip-input" id="zip-input" />
+    </label>
+    <input type="submit" value="Search" />
+  </form>
+</div>
+{% endblock %}
