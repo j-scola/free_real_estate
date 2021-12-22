@@ -15,7 +15,22 @@ def index():
     zip_code = request.form['zip-input']
     if is_valid_request({'zip_code': zip_code}):
       # request zip code data from api 
-      return json(get_sales_by_zip(zip_code))
+      
+      # writing block
+      # with open('data/sales_search.txt', 'w') as sales_file:
+      #   sales = get_sales_by_zip(zip_code)
+      #   sales_file.write(sales)
+      #   sales_file.close()
+      #   data = json.loads(sales)['salestrends']
+      #   return json.dumps(data, indent=2)
+      
+      # reading block
+      with open('data/sales_search.txt', 'r') as sales_file:
+        sales = json.loads(sales_file.read())
+        sales_file.close()
+        print(sales['salestrends'])
+        return json.dumps(sales['salestrends'], indent=2)
+        
     
     return 'post recieved'
   

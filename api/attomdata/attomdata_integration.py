@@ -1,28 +1,24 @@
 import requests
-import os
+from dotenv import dotenv_values
+import json
+
+config = dotenv_values('.env')
 
 base_url = 'https://api.gateway.attomdata.com/propertyapi/v1.0.0/'
 
+
 headers = {
-  'APIkey': os.environ['ATTOM_API_KEY'],
-  'accept': 'application/json'
+  'APIkey': config['ATTOM_API_KEY'],
+  'accept': 'application/json',
+  'Accept': 'application/json',
 }
-print(headers['APIkey'])
+
 def get_sales_by_zip(zip_code):
-  url = base_url + 'saleshistory/snapshot'
+  url = f'https://api.gateway.attomdata.com/propertyapi/v1.0.0/salestrend/snapshot?geoid=ZI{zip_code}&interval=monthly&startyear=2015&endyear=2017&startmonth=January&endmonth=December'
   print(url)
-  params = {
-    'geoid': 'ZI' + zip_code,
-    'interval': 'monthly',
-    'startyear': '2017',
-    'endyear': '2021',
-    'startmonth': 'January',
-    'endmonth': 'December',
-  }
-  # r = requests.get(url, headers=headers, params=params)
-  r = {'data': 'test'}
-  
-  return r
+  r = requests.get(url, headers=headers)
+  print('ATTOM API request status ' + str(r.status_code))
+  return r.text
 
 def get_sales_by_address(data):
   url = base_url + 'sale/snapshot'
