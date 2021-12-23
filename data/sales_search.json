@@ -1,0 +1,338 @@
+[
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "February 2016",
+      "end": "February 2016",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 16,
+      "avgsaleprice": 679944.0,
+      "medsaleprice": 638500.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "March 2016",
+      "end": "March 2016",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 29,
+      "avgsaleprice": 638931.0,
+      "medsaleprice": 574000.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "April 2016",
+      "end": "April 2016",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 37,
+      "avgsaleprice": 582743.0,
+      "medsaleprice": 605000.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "May 2016",
+      "end": "May 2016",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 39,
+      "avgsaleprice": 675054.0,
+      "medsaleprice": 632100.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "July 2016",
+      "end": "July 2016",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 35,
+      "avgsaleprice": 658134.0,
+      "medsaleprice": 650500.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "August 2016",
+      "end": "August 2016",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 37,
+      "avgsaleprice": 654603.0,
+      "medsaleprice": 620000.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "September 2016",
+      "end": "September 2016",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 31,
+      "avgsaleprice": 653484.0,
+      "medsaleprice": 659000.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "October 2016",
+      "end": "October 2016",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 30,
+      "avgsaleprice": 743600.0,
+      "medsaleprice": 670000.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "November 2016",
+      "end": "November 2016",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 36,
+      "avgsaleprice": 699016.0,
+      "medsaleprice": 739500.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "January 2016",
+      "end": "January 2016",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 17,
+      "avgsaleprice": 645088.0,
+      "medsaleprice": 568000.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "June 2016",
+      "end": "June 2016",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 43,
+      "avgsaleprice": 693547.0,
+      "medsaleprice": 660000.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "December 2016",
+      "end": "December 2016",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 34,
+      "avgsaleprice": 632325.0,
+      "medsaleprice": 583750.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "January 2017",
+      "end": "January 2017",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 18,
+      "avgsaleprice": 561111.0,
+      "medsaleprice": 563000.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "February 2017",
+      "end": "February 2017",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 17,
+      "avgsaleprice": 606324.0,
+      "medsaleprice": 595000.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "March 2017",
+      "end": "March 2017",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 20,
+      "avgsaleprice": 767575.0,
+      "medsaleprice": 782500.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "April 2017",
+      "end": "April 2017",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 27,
+      "avgsaleprice": 742130.0,
+      "medsaleprice": 750000.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "June 2017",
+      "end": "June 2017",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 22,
+      "avgsaleprice": 895273.0,
+      "medsaleprice": 785000.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "July 2017",
+      "end": "July 2017",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 27,
+      "avgsaleprice": 718059.0,
+      "medsaleprice": 700000.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "August 2017",
+      "end": "August 2017",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 33,
+      "avgsaleprice": 955368.0,
+      "medsaleprice": 720000.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "September 2017",
+      "end": "September 2017",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 16,
+      "avgsaleprice": 839413.0,
+      "medsaleprice": 741250.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "October 2017",
+      "end": "October 2017",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 30,
+      "avgsaleprice": 658350.0,
+      "medsaleprice": 654000.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "December 2017",
+      "end": "December 2017",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 29,
+      "avgsaleprice": 667986.0,
+      "medsaleprice": 640000.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "May 2017",
+      "end": "May 2017",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 29,
+      "avgsaleprice": 668069.0,
+      "medsaleprice": 625000.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  },
+  {
+    "location": { "geoID": "ZI94619" },
+    "daterange": {
+      "start": "November 2017",
+      "end": "November 2017",
+      "interval": "monthly"
+    },
+    "SalesTrend": {
+      "homesalecount": 32,
+      "avgsaleprice": 622854.0,
+      "medsaleprice": 580000.0
+    },
+    "vintage": { "pubDate": "2021-11-27" }
+  }
+]
